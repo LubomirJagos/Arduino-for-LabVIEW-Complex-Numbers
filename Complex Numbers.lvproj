@@ -12,15 +12,15 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Development Tests" Type="Folder">
-			<Item Name="Test Create Complex Number To String.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Create Complex Number To String.vi"/>
-			<Item Name="Test Create Complex Number.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Create Complex Number.vi"/>
-			<Item Name="Test Write Complex Number To Serial.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Write Complex Number To Serial.vi"/>
-			<Item Name="Test Complex Number Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Complex Number Add.vi"/>
-			<Item Name="Test Multiply.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Multiply.vi"/>
-			<Item Name="Test Sqrt Sqrt.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Sqrt Sqrt.vi"/>
-			<Item Name="Test Basic operations 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Test/Test Basic operations 1.vi"/>
+			<Item Name="Test Create Complex Number To String.vi" Type="VI" URL="../Test/Test Create Complex Number To String.vi"/>
+			<Item Name="Test Create Complex Number.vi" Type="VI" URL="../Test/Test Create Complex Number.vi"/>
+			<Item Name="Test Write Complex Number To Serial.vi" Type="VI" URL="../Test/Test Write Complex Number To Serial.vi"/>
+			<Item Name="Test Complex Number Add.vi" Type="VI" URL="../Test/Test Complex Number Add.vi"/>
+			<Item Name="Test Multiply.vi" Type="VI" URL="../Test/Test Multiply.vi"/>
+			<Item Name="Test Sqrt Sqrt.vi" Type="VI" URL="../Test/Test Sqrt Sqrt.vi"/>
+			<Item Name="Test Basic operations 1.vi" Type="VI" URL="../Test/Test Basic operations 1.vi"/>
 		</Item>
-		<Item Name="Complex Numbers.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Complex Numbers/Complex Numbers.lvlib"/>
+		<Item Name="Complex Numbers.lvlib" Type="Library" URL="../Complex Numbers.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Arduino Compatible Compiler for LabVIEW.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/Arduino Compatible Compiler for LabVIEW.lvlib"/>
